@@ -9,7 +9,7 @@
   ],
   "projectSettings": {
     "framework": "vite",
-    "buildCommand": "npm run build",
+    "buildCommand": "npm run dev",
     "outputDirectory": "dist",
     "rootDirectory": "frontend"
   }
